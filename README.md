@@ -25,20 +25,6 @@ This repository contains a MATLAB/Simulink model for a **Fuzzy Logic Controller-
 2. Open MATLAB and navigate to the project folder.
 3. Open `Fuzzy_MPPT_Simulation.slx` in Simulink.
 4. Run the simulation and observe the MPPT performance.
-
-## 📂 Repository Structure
-```
-📁 Fuzzy-MPPT-Solar/
-├── 📄 README.md  # Project Documentation
-├── 📄 LICENSE    # Open-source license file
-├── 📁 SimulinkModels/
-│   ├── Fuzzy_MPPT_Simulation.slx  # Main Simulink model
-│   ├── Fuzzy_Controller.fis  # Fuzzy Inference System file
-├── 📁 Docs/
-│   ├── Report.pdf  # Detailed project report
-│   ├── Results/  # Simulation output results
-└── 📁 Scripts/
-    ├── Initialize_Parameters.m  # MATLAB script for defining parameters
 ```
 
 ## 📊 Performance Comparison
